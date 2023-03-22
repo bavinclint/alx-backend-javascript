@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Rest parameter syntax for functions'
+git commit -m 'Const or let?'
 git push
