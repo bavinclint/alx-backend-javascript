@@ -1,5 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Arrow functions'
+git commit -m 'Parameter defaults'
 git push
-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
