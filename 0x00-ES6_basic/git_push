@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Parameter defaults'
+git commit -m 'Rest parameter syntax for functions'
 git push
