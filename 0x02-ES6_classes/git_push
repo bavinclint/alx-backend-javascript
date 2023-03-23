@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Course, Getters, and Setters'
+git commit -m 'Methods, static methods, computed methods names'
 git push
