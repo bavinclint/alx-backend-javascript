@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Implement a class'
+git commit -m 'make some classrooms'
 git push
