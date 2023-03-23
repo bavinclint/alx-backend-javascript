@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'make some classrooms'
+git commit -m 'Course, Getters, and Setters'
 git push
