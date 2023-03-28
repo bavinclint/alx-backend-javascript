@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'More set data structure'
+git commit -m 'Clean set'
 git push
