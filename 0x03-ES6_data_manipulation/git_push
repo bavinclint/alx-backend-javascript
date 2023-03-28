@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Map data structure'
+git commit -m 'More map data structure'
 git push
